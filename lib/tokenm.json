@@ -63,7 +63,7 @@
 "singbox_subscribe_url":"",
 "singbox_clash2singbox_url":"./clash2singbox.gz",
 "singbox_template_url":"./singbox.json",
-"pan115_cookie":"",
+"pan115_cookie":"CID=f67994685077c591ef931c3944c5bfe3; SEID=3a0e87cfc5d4da69cf59b351fce25a20aa88464beb922ad231385eba9d66c456f5c85d3b1ecf196a1c2a6594ed66001ce46499dbb38b8d33b49ce604; UID=6509558_A1_1722133837",
 "pan115_thread_limit":0,
 "pan115_vip_thread_limit":0,
 "pan115_is_vip":false,
